@@ -28,13 +28,25 @@
 		</competency>
 	</mycompetencies>
 	<myadvantages>
-		<advantage name="involvement">I'm happy to learn web-technologies as they are excite me</advantage>
-		<advantage name="responsibility">First things first</advantage>
-		<advantage name="cheerfulness">I'm not the one easy to get down if something goes wrong</advantage>
-		<advantage name="benevolence">I'm eager to learn from others and teach what I know aswell</advantage>
+		<advantage name="involvement">
+			I'm happy to learn web-technologies as they are excite me
+		</advantage>
+		<advantage name="responsibility">
+			First things first
+		</advantage>
+		<advantage name="cheerfulness">
+			I'm not the one easy to get down if something goes wrong
+		</advantage>
+		<advantage name="benevolence">
+			I'm eager to learn from others and teach what I know aswell
+		</advantage>
 	</myadvantages>
 	<mydisadvantages>
-		<disadvantage name="lack_of_experience">Usually I know what subject is about, but I don't have sufficient experience in it</disadvantage>
-		<disadvantage name="diffusion">I'm interested in a lot of topics in CS, sometimes it blurs my focused learning</disadvantage>
+		<disadvantage name="lack_of_experience">
+			Usually I know what subject is about, but I don't have sufficient experience in it
+		</disadvantage>
+		<disadvantage name="diffusion">
+			I'm interested in a lot of topics in CS, sometimes it blurs my focused learning
+		</disadvantage>
 	</mydisadvantages>
 </myportfolio>
